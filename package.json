@@ -1,0 +1,22 @@
+{
+  "name": "expert-sniffle",
+  "version": "1.0.0",
+  "description": "Module 12 employee tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nKingchaos2284/expert-sniffle.git"
+  },
+  "author": "J M Cabrera Elias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nKingchaos2284/expert-sniffle/issues"
+  },
+  "homepage": "https://github.com/nKingchaos2284/expert-sniffle#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
